@@ -8,4 +8,3 @@ if len(ch) == 1 and ch.isalpha():
 		print("Ký tự thường:", ch_thuong)
 else:
 	print("Bạn đã nhập sai ký tự")
-	pr
