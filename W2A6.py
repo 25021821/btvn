@@ -1,0 +1,7 @@
+ch = input("Nhập một ký tự thường (a-z): ")
+code_point = ord(ch)
+hex_code = hex(code_point)
+print("Mã Unicode dạng hex:",hex_code)   
+print("Mã Unicode dạng thập phân:", ord(ch))
+ch_hoa = ch.upper()
+print("Ký tự hoa:", ch_hoa)
